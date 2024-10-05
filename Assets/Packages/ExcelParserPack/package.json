@@ -1,0 +1,10 @@
+{
+  "name": "com.dongdonglim.gamepackage",
+  "version": "1.0.0",
+  "displayName": "GamePackage",
+  "description": "ExcelParserPack",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.addressables": "1.21.21"
+  }
+}
